@@ -1,0 +1,164 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\kOqDUPinUgCovLOVjXAKmPBirjj0h3JJN4C_YJPSCt4=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\GeradorDeIdentidades.Client.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/GeradorDeIdentidades.Client.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\xg-5KMvs_Xi5-KWw0ZTF0OrcCCQUMGlVHLYP4KhooeU=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\GeradorDeIdentidades.Shared.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/GeradorDeIdentidades.Shared.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\QOq4p1WdT709tYSdJsM9ZIPQ2OyRnXk2Xc-YFJNSxxI=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SLsps_ucJuv0fRP24qAUKunWRxfFdFIsbHSJgnCv_2U=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\YOZNg9Z-R1Wm7T-2zWb0m8W1e1ugvoY-KkdiJnSaYRI=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UkHchuLRqK2dsif-gmSEJjOaaVKOlsWP0kxNxBiI6RI=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\wcNxge9pyDnBCYpkbXkqXdTHbuL4ikeAR-zwB6CSck0=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\84BWoo9VbyBMTV4lawBpTWjUhnzVlIgt7HvDTqbzv9I=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3xkNrf3pKkTh7OkzO5esIoOEgxheZmtmcXm8jXPCgcA=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\XVQRtF-ObeuRb2Vcnwkqb8THEy2wWI9ddfupcGA7d3Y=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Btd5BhMyk6IUjGmEHyYqIb5nE80totKj9vbhD9VaLS8=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\bPHGwfAyucnR24jhifZdUlQl8ZG3ByjF-zv-18NMbCc=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\wMjJ9BY46NQhyVoV4imWfVuv6rcqN1iqc9UrJD7I1HA=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\gg4x5NMzdseZRLvyMZGqiELM1a_cbUq1YuwlpiUv_pU=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3cbvJEo8k8VJVQwyEZWWQ6yGRFQW8-219DaOnmsX3e4=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\zV-OfJNfNsG404X30Pwkdymdh1KmZpTVEmG-JNFVc-k=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\9BPcw6cH347jld0KaKsaFfAol1MXPhn24WZEZG6NIXs=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\32WMLHs4GRDZ7b9th2j0LRIq3xLDDZbpMUueh7VMd-s=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\D9gm4GXG40YrYNnZ8pnboklELhLGyAGuMleSUDvuXe4=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\4Py5HliRpkT94NwDGJ70XSCrX1gkYYe_Jr-4NlML57Y=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Vn6syShjHiQXx4MXJzitiZhbPZmAObR1kcZUpOKReWs=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\sZ_A-uK4Aj_-9Oa58YAAtmpUCi9W6LdS46iSQkFOsA0=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\EYuDSrE2i5an1Aev3LNseIg3WHHvvAz16kHMjV8fwMo=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\xCFm08hIlYvhL5TN2CYtYHroNhHyM2IxPT1enFMg1IQ=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\maBNtPmIPp59oHbBS0rISJru7uD-JVjOUo3hTNLDsVw=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\cwBBW0hOG6rz64_w9wu1iTQpuB0qBLKW1ZcYcmC6aG4=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "C:\\Users\\MrK\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.3.2.0.js.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\MrK\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "C:\\Users\\MrK\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.wasm.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash",
+      "Source": "C:\\Users\\MrK\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.1\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\CnE9suPRhhAj0C0d_bMpt-8LNwJptqux1zf-A5yWbQc=.hash",
+      "Source": "M:\\Code Projects\\GeradorDeIdentidades\\GeradorDeIdentidades\\Client\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
+    }
+  ]
+}

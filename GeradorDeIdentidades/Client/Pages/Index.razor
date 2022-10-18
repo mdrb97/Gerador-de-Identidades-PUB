@@ -1,0 +1,130 @@
+﻿@page "/"
+@using GeradorDeIdentidades.Shared
+@using GeradorDeIdentidades.Client.Services
+@inject ClipboardService ClipboardService
+@inject ToastService ToastService
+@inject HttpClient Http
+<h2>Gerador de Identidades</h2>
+
+@if (identity == null)
+{
+    <p><em>Aguarde...</em></p>
+}
+else
+{
+    <div class="row">
+        <div class="col text-left">
+            <p>
+                Um gerador de identidades rápido para auxílio de desenvolvimento de aplicações.
+            </p>
+        </div>
+    </div>
+    <div class="row mt-5 mb-5">
+        <div class="container h-100 mt-5 mb-5">
+            <div class="row h-100 justify-content-center align-items-center">
+                <div class="card text-center" style="width: 24rem;">
+                    <div class="card-body">
+                        <h5 class="card-title cursor-pointer" @onclick="CopyNameToClipboard">@identity.Name</h5>
+                        <p class="card-text cursor-pointer" @onclick="CopyNifToClipboard">NIF: <span>@identity.Nif</span></p>
+                        <p class="card-text cursor-pointer" @onclick="CopyCCToClipboard">CC: <span>@identity.CC</span></p>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col text-center">
+                                    <button class="btn btn-primary" @onclick="Refresh">Outra vez</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="d-flex align-items-center">
+            <div class="container">
+                <div class="col text-left">
+                    <p>
+                        Estas identidades são fictícias. No entanto:
+                        <ul>
+                            <li>
+                                <p>Os NIFs e CCs são válidos de acordo com os validadores portugueses.</p>
+                            </li>
+                            <li>
+                                <p>Os nomes são escolhidos aleatoriamente.</p>
+                            </li>
+                        </ul>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+}
+
+
+
+
+@code{
+
+
+    private IdentityModel identity;
+
+    private readonly string copiedString = "Copiado com sucesso :D";
+    private readonly string errString = "Tente outra vez.";
+
+    protected override async Task OnInitializedAsync()
+    {
+        identity = await Http.GetFromJsonAsync<IdentityModel>("Identity");
+    }
+
+    private async Task Refresh()
+    {
+        try
+        {
+            identity = await Http.GetFromJsonAsync<IdentityModel>("Identity");
+        }
+        catch
+        {
+            await ToastService.ShowError(errString);
+        }
+
+    }
+
+    private async Task CopyNifToClipboard()
+    {
+        try
+        {
+            await ToastService.Show(copiedString);
+            await ClipboardService.WriteTextAsync(identity.Nif);
+        }
+        catch
+        {
+        }
+    }
+
+    private async Task CopyCCToClipboard()
+    {
+        try
+        {
+            await ToastService.Show(copiedString);
+            await ClipboardService.WriteTextAsync(identity.CC);
+        }
+        catch
+        {
+        }
+    }
+
+    private async Task CopyNameToClipboard()
+    {
+        try
+        {
+            await ToastService.Show(copiedString);
+            await ClipboardService.WriteTextAsync(identity.Name);
+        }
+        catch
+        {
+        }
+    }
+}

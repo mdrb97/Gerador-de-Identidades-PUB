@@ -1,0 +1,30 @@
+M:\Code Projects\GeradorDeIdentidades2\GeradorDeIdentidades\GeradorDeIdentidades\Shared\bin\Debug\netstandard2.1\GeradorDeIdentidades.Shared.deps.json
+M:\Code Projects\GeradorDeIdentidades2\GeradorDeIdentidades\GeradorDeIdentidades\Shared\bin\Debug\netstandard2.1\GeradorDeIdentidades.Shared.dll
+M:\Code Projects\GeradorDeIdentidades2\GeradorDeIdentidades\GeradorDeIdentidades\Shared\bin\Debug\netstandard2.1\GeradorDeIdentidades.Shared.pdb
+M:\Code Projects\GeradorDeIdentidades2\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.csprojAssemblyReference.cache
+M:\Code Projects\GeradorDeIdentidades2\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.GeneratedMSBuildEditorConfig.editorconfig
+M:\Code Projects\GeradorDeIdentidades2\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.AssemblyInfoInputs.cache
+M:\Code Projects\GeradorDeIdentidades2\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.AssemblyInfo.cs
+M:\Code Projects\GeradorDeIdentidades2\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.csproj.CoreCompileInputs.cache
+M:\Code Projects\GeradorDeIdentidades2\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.dll
+M:\Code Projects\GeradorDeIdentidades2\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.pdb
+M:\Code Projects\GeradorDeIdentidades\GeradorDeIdentidades\Shared\bin\Debug\netstandard2.1\GeradorDeIdentidades.Shared.deps.json
+M:\Code Projects\GeradorDeIdentidades\GeradorDeIdentidades\Shared\bin\Debug\netstandard2.1\GeradorDeIdentidades.Shared.dll
+M:\Code Projects\GeradorDeIdentidades\GeradorDeIdentidades\Shared\bin\Debug\netstandard2.1\GeradorDeIdentidades.Shared.pdb
+M:\Code Projects\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.GeneratedMSBuildEditorConfig.editorconfig
+M:\Code Projects\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.AssemblyInfoInputs.cache
+M:\Code Projects\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.AssemblyInfo.cs
+M:\Code Projects\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.csproj.CoreCompileInputs.cache
+M:\Code Projects\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.dll
+M:\Code Projects\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.pdb
+M:\Code Projects\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.csproj.AssemblyReference.cache
+M:\Code Projects Current\GeradorDeIdentidades\GeradorDeIdentidades\Shared\bin\Debug\netstandard2.1\GeradorDeIdentidades.Shared.deps.json
+M:\Code Projects Current\GeradorDeIdentidades\GeradorDeIdentidades\Shared\bin\Debug\netstandard2.1\GeradorDeIdentidades.Shared.dll
+M:\Code Projects Current\GeradorDeIdentidades\GeradorDeIdentidades\Shared\bin\Debug\netstandard2.1\GeradorDeIdentidades.Shared.pdb
+M:\Code Projects Current\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.csproj.AssemblyReference.cache
+M:\Code Projects Current\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.GeneratedMSBuildEditorConfig.editorconfig
+M:\Code Projects Current\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.AssemblyInfoInputs.cache
+M:\Code Projects Current\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.AssemblyInfo.cs
+M:\Code Projects Current\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.csproj.CoreCompileInputs.cache
+M:\Code Projects Current\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.dll
+M:\Code Projects Current\GeradorDeIdentidades\GeradorDeIdentidades\Shared\obj\Debug\netstandard2.1\GeradorDeIdentidades.Shared.pdb

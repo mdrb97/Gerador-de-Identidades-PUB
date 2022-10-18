@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="M:\Code Projects\GeradorDeIdentidades\GeradorDeIdentidades\Client\bin\Release\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="/" Path="M:\Code Projects\GeradorDeIdentidades\GeradorDeIdentidades\Client\wwwroot\" />
+</StaticWebAssets>
